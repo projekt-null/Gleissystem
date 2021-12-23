@@ -70,13 +70,11 @@ Gemäß DRG Oberbauvorschriften wird der Weichenenfang und die zwei Weichenenden
 
 Das Open Source Projekt *Projekt-Null* steht unter der LGLPv3 Lizenz. 
 
-Die kommerzielle Nutzung der bereitgestellten Inhalte ist demnach nicht explizit untersagt. Die Verwendung dieser Quellen, zum kommerziellen Zwecke, muss allerdings deutlich und sichtbar gegenüber dem Kunden gekennzeichnet werden.  
+Die Nutzung der bereitgestellten Inhalte, sei es privat oder kommerziell, ist demnach nicht explizit untersagt. Die Verwendung dieser Quellen, zu kommerziellen Zwecken, muss allerdings deutlich und sichtbar gegenüber dem Kunden gekennzeichnet werden.  
 
 Änderungen an den Inhalten, im Rahmen einer kommerziellen Nutzung, müssen entweder unmittelbar in das hier aufgeführte Open Source Projekt einfließen oder in Form eines eigenen Open Source Projekts, unter Verwendung einer geeigneten Lizenz, bekannt gemacht werden.
 
-Die rein private Nutzung unterliegt grundsätzlich keinerlei Bedingungen. 
-
-Ein Blick in die LGPLv3 Lizenz schadet trotzdem nicht, siehe hier: https://www.gnu.org/licenses/lgpl-3.0.de.html
+Die rein private Nutzung unterliegt grundsätzlich keinerlei Bedingungen. Ein Blick in die LGPLv3 Lizenz schadet trotzdem nicht, siehe hier: https://www.gnu.org/licenses/lgpl-3.0.de.html
 
 Alternativ wendet euch bei Fragen per E-Mail an: info@projekt-null.de
 

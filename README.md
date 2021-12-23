@@ -74,7 +74,7 @@ Die kommerzielle Nutzung der bereitgestellten Inhalte ist demnach nicht explizit
 
 Änderungen an den Inhalten, im Rahmen einer kommerziellen Nutzung, müssen entweder unmittelbar in das hier aufgeführte Open Source Projekt einfließen oder in Form eines eigenen Open Source Projekts, unter Verwendung einer geeigneten Lizenz, bekannt gemacht werden.
 
-Die rein private Nutzung unterliegt grundsätzlicher keinerlei Bedingungen. 
+Die rein private Nutzung unterliegt grundsätzlich keinerlei Bedingungen. 
 
 Ein Blick in die LGPLv3 Lizenz schadet trotzdem nicht, siehe hier: https://www.gnu.org/licenses/lgpl-3.0.de.html
 
@@ -85,7 +85,7 @@ Ausgeschlossen von den Lizenzbedingungen sind zur Zeit
 - alle Produkte vom Hersteller Hassler-Profile, Oberbühl 111, FL- 9487 Gamprin
 - und das K-Modul-System.
 
-Diese Liste gilt es zu aktualisieren, sobald weitere Produkte von Dritten Anwendung in den Entwicklungen vom Projekt-Null Gleissystem finden.
+Diese Liste gilt es allerdings zu aktualisieren, sobald weitere Produkte von Dritten Anwendung in den Entwicklungen vom Projekt-Null Gleissystem finden.
 
 
 

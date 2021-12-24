@@ -1,4 +1,4 @@
-# Projekt-Null Gleissystem
+# Projekt-Null Spur 0 Gleissystem
 
 ## Persönliches Vorwort
 
@@ -68,22 +68,20 @@ Gemäß DRG Oberbauvorschriften wird der Weichenenfang und die zwei Weichenenden
 
 ## Lizenzierung
 
-Das Open Source Projekt *Projekt-Null* steht unter der LGLPv3 Lizenz. 
+Das Open Source Projekt *Projekt-Null Spur 0 Gleissystem* steht unter der LGLPv3 Lizenz. 
 
-Die Nutzung der bereitgestellten Inhalte, sei es privat oder kommerziell, ist demnach nicht explizit untersagt. Die Verwendung dieser Quellen, zu kommerziellen Zwecken, muss allerdings deutlich und sichtbar gegenüber dem Kunden gekennzeichnet werden.  
+Über die bereitgestellten Konstruktionsdaten kann frei verfügt werden. Bei Vervielfältigtung und kommerziellen Gebrauch, gilt es allerdings die Lizenzbedingungen einzuhalten. 
 
-Änderungen an den Inhalten, im Rahmen einer kommerziellen Nutzung, müssen entweder unmittelbar in das hier aufgeführte Open Source Projekt einfließen oder in Form eines eigenen Open Source Projekts, unter Verwendung einer geeigneten Lizenz, bekannt gemacht werden.
-
-Die rein private Nutzung unterliegt grundsätzlich keinerlei Bedingungen. Ein Blick in die LGPLv3 Lizenz schadet trotzdem nicht, siehe hier: https://www.gnu.org/licenses/lgpl-3.0.de.html
+Mehr zur LGPLv3 Lizenz: https://www.gnu.org/licenses/lgpl-3.0.de.html
 
 Alternativ wendet euch bei Fragen per E-Mail an: info@projekt-null.de
 
-Ausgeschlossen von den Lizenzbedingungen sind zur Zeit
+Ausgeschlossen von den Lizenzbedingungen
 
 - alle Produkte vom Hersteller Hassler-Profile, Oberbühl 111, FL- 9487 Gamprin
 - und das K-Modul-System.
 
-Diese Liste gilt es allerdings zu aktualisieren, sobald weitere Produkte von Dritten Anwendung in den Entwicklungen vom Projekt-Null Gleissystem finden.
+Diese Liste gilt es allerdings zu aktualisieren, sobald weitere Produkte von Dritten in die Entwicklungen einfließen.
 
 
 

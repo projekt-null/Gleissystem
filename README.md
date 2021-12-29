@@ -68,7 +68,7 @@ Gemäß DRG Oberbauvorschriften wird der Weichenenfang und die zwei Weichenenden
 
 ## Lizenzierung
 
-Das Open Source Projekt *Projekt-Null Spur 0 Gleissystem* steht unter der LGLPv3 Lizenz. 
+Das Open Source Projekt *Projekt-Null Spur 0 Gleise* steht unter der LGLPv3 Lizenz. 
 
 Über die bereitgestellten Konstruktionsdaten kann frei verfügt werden. Bei Vervielfältigung und kommerziellen Gebrauch, gilt es allerdings die Lizenzbedingungen einzuhalten. 
 

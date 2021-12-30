@@ -28,7 +28,7 @@ Geeignetes Material für die Holzschwellen sind 3mm Eichen- oder Lindenvollholzp
 - 0_Einzelschwelle_Holz_K_Modul_System_v2__Hassler_Laser_Cut_Kerf_0_15 - Export im DXF-Format zum Laserschneiden mit Schnittweite (Kerf-Width) von 0,15mm für Hassler 3,5mm Schienenprofil
 - 0_Einzelschwelle_Holz_K_Modul_System_v2__Hassler_Laser_Cut_Kerf_0_10 - Export im DXF-Format zum Laserschneiden mit Schnittweite (Kerf-Width) von 0,10mm für Hassler 3,5mm Schienenprofil
 
-## Offenen Punkte
+## Offene Punkte
 
 - Unterstützung for Peco Code 143 Schienenprofil hinzufügen
 - Laser-Cut Verfahrwege optimieren

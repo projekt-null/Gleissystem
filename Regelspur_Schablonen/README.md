@@ -23,7 +23,7 @@ Laut FREMO Spur 0 Norm, lautet die aktuelle Trassen-/Schotterbreite 68mm.
 - 0_15m_Joch_Gebogene_Schablone_v8__Lenz_R10_Laser_Cut_Kerf_0_10.dxf - Export im DXF-Format zum Laserschneiden mit Radius Lenz R10 (1649,39mm) und Schnittweite (Kerf-Width) von 0,10mm
 - 0_15m_Joch_Gebogene_Schablone_v8__Lenz_R10_Laser_Cut_Kerf_0_15.dxf - Export im DXF-Format zum Laserschneiden mit Radius Lenz R10 (1649,39mm) und Schnittweite (Kerf-Width) von 0,15mm
 
-## Offenen Punkte
+## Offene Punkte
 
 - 30m Joche gemäß DRG-Richtlinien
 - 30m Joche gemäß späterer DB Vorgaben

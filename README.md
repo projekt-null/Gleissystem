@@ -8,7 +8,6 @@ Weiterführende Informationen zu diesem Projekt sind der Projekt Null Homepage z
 
 - Regelspur_Gleise - Enthält Einzelschwellen oder Schwellenbänder für die Nachbildung von Holzschwellen im Modell
 - Regelspur_Schablonen - Enthält Schablonen zum sauberen Verlegen von Einzelschwellen 
-- Regelspur_EW_100_1_6_6 - Enthält die Konstruktionsdaten für die Herstellung einer Weiche, vergleichbar mit einer EW 100 1:6,6 im Vorbild. (**Achtung**: Dieses Projekt ist noch nicht vollständig veröffentlich und befindet sich noch in aktiver Entwicklung!)
 
 ## Pushen von Änderungen
 
